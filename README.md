@@ -8,4 +8,4 @@ Architechture diagram for Blue-Green deployment is shown below.
 
 ![image](https://github.com/user-attachments/assets/5038ed97-33cf-496d-bd82-81c867db6921)
 ![image](https://github.com/user-attachments/assets/31c6f8ad-1965-4831-928c-31692815a88d)
-![image](https://github.com/user-attachments/assets/ca7a21f3-5b50-41fd-8370-c800dd7bc801)
+![image](https://github.com/user-attachments/assets/24f4f0a3-d338-4ca3-8d4c-802d7ecb7fe3)
