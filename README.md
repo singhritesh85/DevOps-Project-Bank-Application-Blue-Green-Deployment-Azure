@@ -55,3 +55,22 @@ After running the Azure pipelines the screenshot for SonarQube and Azure Artifac
 ![image](https://github.com/user-attachments/assets/b31f4941-faac-49a3-83bd-3d8a85f9ce55)
 
 <br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+```
+Source Code:- https://github.com/singhritesh85/Bank-App.git
+
+Helm Chart:-  https://github.com/singhritesh85/helm-repo-for-Blue-Green-Deployment.git
+```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+```
+Reference:-  https://github.com/Goldencat98/Bank-App.git
+```
