@@ -54,4 +54,4 @@ After running the Azure pipelines the screenshot for SonarQube and Azure Artifac
 ![image](https://github.com/user-attachments/assets/2a038c68-c52d-4cf1-be04-7d9a15ee190c)
 ![image](https://github.com/user-attachments/assets/b31f4941-faac-49a3-83bd-3d8a85f9ce55)
 
-<br><br/>
+<br></br>
