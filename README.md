@@ -38,6 +38,7 @@ For checking purpose I have changed the service type of bankapp from ClusterIP t
 ![image](https://github.com/user-attachments/assets/0b076844-21d9-4b79-a8b8-4663c51d8335)
 
 After checking when you get assured Application is working fine, changed the service type from LoadBalancer to ClusterIP as shown in the screenshot attached below.
+
 ![image](https://github.com/user-attachments/assets/a7ef5221-dfdd-4335-8961-6e064293292a)
 
 Finally promote the rollout as shown in the screenshot attached below.
@@ -51,6 +52,7 @@ Finally access the application as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/9602530d-819b-4718-bf31-9f0667df88f1)
 
 After running the Azure pipelines the screenshot for SonarQube and Azure Artifacts are as shown in the screenshot attached below.
+
 ![image](https://github.com/user-attachments/assets/2a038c68-c52d-4cf1-be04-7d9a15ee190c)
 ![image](https://github.com/user-attachments/assets/b31f4941-faac-49a3-83bd-3d8a85f9ce55)
 
